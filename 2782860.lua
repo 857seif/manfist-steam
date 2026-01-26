@@ -1,0 +1,27 @@
+-- This file was fetched from twentytwo cloud which is the exclusive property of Twentytwo server.
+-- Redistribution of twentytwo's files is not allowed AT ALL
+-- Join the server here: https://discord.com/invite/vwGWeTFTXW
+
+addappid(2782860)
+addappid(2782860,0,"cce512eff6fdedf56cb302535945168426b3b177fda14193c7e07345e380c25d")
+setManifestid(2782860,"2198208967006365889")
+addappid(2782861)
+addappid(2782862)
+addappid(2782863)
+addappid(2782864)
+addappid(2782865)
+addappid(2782866)
+addappid(2782867,0,"037a6a8c79cf1fae05309c509a57669f8e1e34f64216a82e27b0ba68b93b7843")
+setManifestid(2782867,"3720239542771544947")
+addappid(2782868)
+addappid(2782869)
+addappid(2982170)
+addappid(2982171,0,"8b842962efdefde7443c1f049e3d483167694fbe1d5853a8c43d035c35e7d00d")
+setManifestid(2982171,"2502919379926091238")
+addappid(2982172)
+addappid(2982173)
+addappid(2982174)
+addappid(2982175)
+addappid(2982176)
+addappid(2982177)
+addappid(2982178)
