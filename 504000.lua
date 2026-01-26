@@ -1,0 +1,5 @@
+addappid(504000)
+addappid(504001,0,"ab314cf7e3babeaba946c054364d4bed73571682fd3ec9fd4d8c5e17a837db70")
+setManifestid(504001,"9209057475853424176")
+addappid(504002)
+addappid(504003)
